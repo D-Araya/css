@@ -1,0 +1,8 @@
+.square {
+  height: 10cm;
+  width: 10cm;
+  background-color: steelblue;
+  color: rgb(195, 126, 126);
+  border: 2px solid black;
+
+ }
